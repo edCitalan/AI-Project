@@ -47,7 +47,7 @@ Press **Q** or **ESC** to quit.
 
 **Course**: Intelligent Systems (AI Term Project)  
 **Due Date**: December 5th  
-**Team Leader**: \[Your Name / Team Lead Name]  
+**Team Leader**: Edward Aguilar Citalan, Jefferson Pinargote, Lynn Khaing, Nicholas Frangione, and Santosh Parajuli
 **Project Goal**: Design and build an intelligent system using core AI techniques (Vision, Learning, Reasoning) and deploy it to a simulated NVIDIA Jetson Nano Orin environment.
 
 ### Abstract
